@@ -1,0 +1,42 @@
+
+#loginForm{
+	text-align: center;
+	margin: auto;
+	width: 500px;
+	margin-top: 300px;
+}
+
+#inputTitle{
+	color : blue;
+	font−size: 10 px;
+}
+
+#loginForm .inputInfo{
+	position:relative;
+	border:solid;
+	border-color:black;
+	width: 450px;
+	height: 150px;
+	margin:auto;
+}
+
+#loginForm .inputInfo .inputInfoUser{
+	position:absolute;
+	top:20px;
+	left:40px
+}
+#loginForm .inputInfo .inputInfoPass{
+	position:absolute;
+	top:60px;
+	left:40px
+}
+#loginForm .inputInfo .inputInfoButton{
+	position:absolute;
+	bottom:20px;
+	left:40px
+}
+#loginForm .inputInfo .inputInfoSignUp{
+	position:absolute;
+	bottom:20px;
+	right:40px
+}

@@ -1,0 +1,41 @@
+#header {
+	width:100%;
+	height:60px;
+  	background: #33acff
+}
+
+#header .logo{
+	color:#663399;
+	margin-top:0px;
+	float:left;
+	margin:0px;
+	line-height:50px;
+	padding-left:50px
+}
+
+#header.search{
+	display:inline-block;
+	line-height:50px;
+	padding-left:300px;
+				
+}
+#header.searchButton{
+	display:inline-block;
+	line-height:50px;
+	padding-left:20px;
+				
+}
+
+#header.logout{
+	position:absolute;
+	top:20px;
+	right:40px
+				
+}
+
+#zoneStat{
+	position:absolute;
+	top:20px;
+	right:40px;
+  	background: #a8a8a8
+}

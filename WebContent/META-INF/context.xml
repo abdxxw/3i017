@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE xml>
+<Context>
+	<Resource name="jdbc/db" type="javax.sql.DataSource" 
+	maxActive="10" maxIdle="30"  maxWait="10000"
+	url="jdbc:mysql://localhost/vg_birdy69"
+	driverClassName="com.mysql.cj.jdbc.Driver"
+	username="root" password="root" />
+</Context>
